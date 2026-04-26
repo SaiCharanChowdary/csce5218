@@ -1,5 +1,6 @@
 # Plant Disease Classification using Deep Learning
 
+#Download th eProject.ipynb file
 ## Overview
 
 This project focuses on classifying plant diseases using deep learning techniques. We compare the performance of:
