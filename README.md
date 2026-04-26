@@ -11,7 +11,7 @@ This project focuses on classifying plant diseases using deep learning technique
 
 The goal is to evaluate how well different models perform on plant disease classification using image data.
 
----
+
 
 ## Dataset
 
@@ -35,7 +35,7 @@ dataset/
    └── ...
 ```
 
----
+
 
 ## Requirements
 
@@ -45,7 +45,7 @@ Install the required libraries:
 pip install tensorflow matplotlib numpy
 ```
 
----
+
 
 ## How to Run the Project
 
@@ -67,7 +67,7 @@ jupyter notebook
 4. Open the `.ipynb` file and click:
    **Run → Run All Cells**
 
----
+
 
 ## Models Implemented
 
@@ -89,7 +89,7 @@ jupyter notebook
 * Frozen base layers
 * Fine-tuned top layers
 
----
+
 
 ## Training Details
 
@@ -98,7 +98,7 @@ jupyter notebook
 * Batch Size: 32
 * Epochs: 5
 
----
+
 
 ## Results
 
@@ -109,7 +109,7 @@ jupyter notebook
 
 he custom CNN significantly outperforms ResNet50 due to better domain-specific feature learning.
 
----
+
 
 ## Evaluation & Visualization
 
@@ -119,7 +119,7 @@ The notebook includes:
 * Confusion matrices
 * Sample predictions (error analysis)
 
----
+
 
 ## Key Observations
 
@@ -127,7 +127,7 @@ The notebook includes:
 * ResNet50 struggles due to domain mismatch
 * Data augmentation improves generalization
 
----
+
 
 ## Important Notes
 
@@ -135,7 +135,7 @@ The notebook includes:
 * Run all cells before viewing results
 * Outputs must be visible in the notebook (important for grading)
 
----
+
 
 ## Authors
 
@@ -143,7 +143,7 @@ The notebook includes:
 * Bala Nikhil Pasala
 * Muni Sai Chetan Reddy Peddesugari
 
----
 
 
----
+
+
